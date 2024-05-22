@@ -39,7 +39,7 @@
             android:layout_centerVertical="true"
             android:layout_marginRight="10dp"
             android:layout_toRightOf="@+id/detailed_live_score_back_cv"
-            android:text="Live Proceedings"
+            android:text="Live Proceedings..."
             android:textAlignment="center"
             android:textColor="@color/white"
             android:textSize="18sp" />
